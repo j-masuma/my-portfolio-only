@@ -1,0 +1,189 @@
+{
+  "Projects": [
+    {
+      "show": true,
+      "title": "Dashboard App",
+      "desc": [
+        "A nextjs project that I created for practice purpose. The project is a dashboard app that has a few features such as a sidebar, a topbar, and a few pages. The project is built using NextJS, Typescript, and Tailwind CSS."
+      ],
+      "year": "2025",
+      "preview": "https://nextjs-dashboard-one-kappa-45.vercel.app/login",
+      "code": "",
+      "thumbnail": "/image/projects/web/travel/banner.png",
+      "images": [
+        "/image/projects/web/travel/banner.png"
+      ],
+      "tech": [
+        "NextJS",
+        "Typescript",
+        "Tailwind CSS",
+        "MySQL"
+      ], 
+      "slug": "dashboard",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Travel Agency Website",
+      "desc": [
+       "A landing page for a travel agency that I created during my job in a company. The website is built using NextJS, Typescript, and Tailwind CSS. The website has a few features such as a responsive design, a carousel, and a few animations.",
+       "The website is designed to be user-friendly and engaging, with a clean and modern interface"
+      ],
+      "year": "2025",
+      "preview": "https://travel-agency1-eight.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/travel/banner.png",
+      "images": [
+        "/image/projects/web/travel/banner.png",
+        "/image/projects/web/travel/photo1.png",
+        "/image/projects/web/travel/photo2.png"
+      ],
+      "tech": [
+        "NextJS",
+        "TailwindCSS",
+        "Typescript"
+      ], 
+      "slug": "travel agency",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Education Website",
+      "desc": [
+       "Landing page of an education website that I created during my internship in a company. The website is built using Reactjs, and Tailwind CSS. The website has a few features such as a responsive design, and a few animations."
+      ],
+      "year": "2024",
+      "preview": "https://education-website-ashen.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/education/edu1.png",
+      "images": [
+        "/image/projects/web/education/edu1.png",
+        "/image/projects/web/education/edu2.png",
+        "/image/projects/web/education/edu1.png",
+        "/image/projects/web/education/edu2.png",
+        "/image/projects/web/education/edu1.png"
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS"
+      ], 
+      "slug": "education-website",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Umoult Clone",
+      "desc": [
+      "A project that I cloned to check my frontend skill. The project is a clone of umoult.com, a website full of animations and amazing UI. The website was built using Reactjs, Tailwindcss, and Framer motion."
+      ],
+      "year": "2024",
+      "preview": "https://umault-clone-nine.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/umaoult/moult1.png",
+      "images": [
+         "/image/projects/web/umaoult/moult1.png",
+         "/image/projects/web/umaoult/moult1.png"
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS",
+        "Framer Motion"
+      ], 
+      "slug": "umoult-clone",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Typing Game",
+      "desc": [
+        "A simple game that I created using Reactjs and TailwindCSS. The game is a typing game that tests the user's typing speed and accuracy. The game has a few features such as a timer, and a score."
+      ],
+      "year": "2024",
+      "preview": "https://hci-project-lilac.vercel.app/",
+      "code": "",
+      "thumbnail":"/image/projects/web/typing/typing.png",
+      "images": [
+        "/image/projects/web/typing/typing.png"
+        
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS"
+      ], 
+      "slug": "typing-game",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Softball Landing Page",
+      "desc": [
+        "A clone website of a softball landing page that I created using Reactjs and TailwindCSS. The website is a clone of a landing page from dribble. The website has a few features such as a responsive design, and a few animations."
+      ],
+      "year": "2024",
+      "preview": "https://softball-landing-page.vercel.app/",
+      "code": "https://github.com/j-masuma/softball-landing-page",
+      "thumbnail": "/image/projects/web/softball/ball1.png",
+      "images": [
+        "/image/projects/web/softball/ball1.png",
+        "/image/projects/web/softball/ball2.png",
+        "/image/projects/web/softball/ball3.png"
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS",
+        "Framer Motion"
+      ], 
+      "slug": "softball-landing-page",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Furniture Website",
+      "desc": [
+        "A website for furniture shopping that I created during my internship in a company. The website is built using Reactjs, and Tailwind CSS. The website has a few features such as a responsive design, a landing page, a product page, and a cart page."
+      ],
+      "year": "2024",
+      "thumbnail": "/image/projects/web/furniture/furni1.png",
+      "code":"https://github.com/j-masuma/furniture-website",
+      "preview": "https://furniture-website-amber.vercel.app/",
+      "images": [
+        "/image/projects/web/furniture/furni1.png",
+        "/image/projects/web/furniture/furni2.png",
+        "/image/projects/web/furniture/furni1.png",
+        "/image/projects/web/furniture/furni2.png"
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS",
+        "Framer Motion"
+      ], 
+      "slug": "furniture-website",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Restaurant App",
+      "desc": [
+      "A restaurant app to showcase the services and meals it provide. It has some features like making reservations and viewing the menu. The app is built using Reactjs and TailwindCSS."  
+      ],
+      "year": "2024",
+      "thumbnail":  "/image/projects/web/restaurant/rest1.png",
+      "code":"https://github.com/j-masuma/restaurant-app",
+      "preview":"https://restaurant-app-rosy-beta.vercel.app/",
+      "images": [
+        "/image/projects/web/restaurant/rest1.png",
+        "/image/projects/web/restaurant/rest1.png",
+        "/image/projects/web/restaurant/rest1.png",
+        "/image/projects/web/restaurant/rest1.png",
+        "/image/projects/web/restaurant/rest1.png"
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS",
+        "Framer Motion"
+      ], 
+      "slug": "restaurant-app",
+      "category": [1]
+    }
+  ]
+}
