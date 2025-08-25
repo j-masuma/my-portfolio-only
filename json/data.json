@@ -1,27 +1,7 @@
 {
   "Projects": [
-    {
-      "show": true,
-      "title": "Dashboard App",
-      "desc": [
-        "A nextjs project that I created for practice purpose. The project is a dashboard app that has a few features such as a sidebar, a topbar, and a few pages. The project is built using NextJS, Typescript, and Tailwind CSS."
-      ],
-      "year": "2025",
-      "preview": "https://nextjs-dashboard-one-kappa-45.vercel.app/login",
-      "code": "",
-      "thumbnail": "/image/projects/web/travel/banner.png",
-      "images": [
-        "/image/projects/web/travel/banner.png"
-      ],
-      "tech": [
-        "NextJS",
-        "Typescript",
-        "Tailwind CSS",
-        "MySQL"
-      ], 
-      "slug": "dashboard",
-      "category": [1]
-    },
+    
+    
     {
       "show": true,
       "title": "Travel Agency Website",
@@ -183,6 +163,28 @@
         "Framer Motion"
       ], 
       "slug": "restaurant-app",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Dashboard App",
+      "desc": [
+        "A nextjs project that I created for practice purpose. The project is a dashboard app that has a few features such as a sidebar, a topbar, and a few pages. The project is built using NextJS, Typescript, and Tailwind CSS."
+      ],
+      "year": "2025",
+      "preview": "https://nextjs-dashboard-one-kappa-45.vercel.app/login",
+      "code": "",
+      "thumbnail": "/image/projects/web/travel/banner.png",
+      "images": [
+        "/image/projects/web/travel/banner.png"
+      ],
+      "tech": [
+        "NextJS",
+        "Typescript",
+        "Tailwind CSS",
+        "MySQL"
+      ], 
+      "slug": "dashboard",
       "category": [1]
     }
   ]
