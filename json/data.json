@@ -1,7 +1,6 @@
 {
   "Projects": [
     
-    
     {
       "show": true,
       "title": "Travel Agency Website",
@@ -23,7 +22,7 @@
         "TailwindCSS",
         "Typescript"
       ], 
-      "slug": "travel agency",
+      "slug": "travel-agency",
       "category": [1]
     },
     {
