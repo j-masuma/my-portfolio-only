@@ -51,6 +51,30 @@
     },
     {
       "show": true,
+      "title": "Book Review Application",
+      "desc": [
+       "A backend of Book Review Web Application in which I implemented CRUD operation and JWT session based authentication for user sign in. The website is built using Reactjs, and Tailwind CSS. The website has a few features such as a responsive design, and a few animations."
+      ],
+      "year": "2025",
+      "preview": "https://book-review-application-8lzk.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/bookreview/1-getallbooks.png",
+      "images": [
+        "/image/projects/web/bookreview/6-register.png",
+        "/image/projects/web/bookreview/7-login.png",
+        "/image/projects/web/bookreview/1-getallbooks.png",
+        "/image/projects/web/bookreview/8-reviewadded.png",
+        "/image/projects/web/bookreview/9-deletereview.png"
+      ],
+      "tech": [
+        "NodeJS",
+        "ExpressJS"
+      ], 
+      "slug": "book-review-application",
+      "category": [1]
+    },
+    {
+      "show": true,
       "title": "Umoult Clone",
       "desc": [
       "A project that I cloned to check my frontend skill. The project is a clone of umoult.com, a website full of animations and amazing UI. The website was built using Reactjs, Tailwindcss, and Framer motion."
