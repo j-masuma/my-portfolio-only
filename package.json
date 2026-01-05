@@ -1,8 +1,8 @@
 {
-  "name": "alvalen-portfolio-website",
+  "name": "javaria-portfolio-website",
   "author": {
     "name": "Javaria Masooma",
-    "email": "alvalen.shafel04@gmail.com",
+    "email": "javariamasooma150@gmail.com",
     "url": "https://alvalens.my.id"
   },
   "license": "GPL-3.0",
@@ -28,7 +28,7 @@
     "eslint": "9.22.0",
     "eslint-config-next": "15.2.3",
     "framer-motion": "^12.5.0",
-    "next": "^16.1.1",
+    "next": "15.2.3",
     "nprogress": "^0.2.0",
     "postcss": "^8.5.3",
     "prop-types": "^15.8.1",
