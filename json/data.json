@@ -98,6 +98,44 @@
     },
     {
       "show": true,
+      "title": "Amephibia Memory Game",
+      "desc": [
+       "A React Project in which I created a memory game based on the Amephibia cartoon series. The game is built using Reactjs and TailwindCSS. The game has a few features such as a timer, and a score."
+      ],
+      "year": "2024",
+      "preview": "https://react-training-orcin.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/amiphibia/game1.png",
+      "images": [
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS"
+      ], 
+      "slug": "amiphibia-memory-game",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Resume Builder App",
+      "desc": [
+       "A React Project in which I created a Resume Builder App. The app is built using Reactjs and TailwindCSS. The app has a few features such as adding personal information, education, experience, skills, and a preview of the resume."
+      ],
+      "year": "2024",
+      "preview": "https://react-training-wgum.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/resume/res1.png",
+      "images": [
+      ],
+      "tech": [
+        "Reactjs",
+        "TailwindCSS"
+      ], 
+      "slug": "resume-builder-app",
+      "category": [1]
+    },
+    {
+      "show": true,
       "title": "Book Review Application",
       "desc": [
        "A backend of Book Review Web Application in which I implemented CRUD operation and JWT session based authentication for user sign in. The website is built using Reactjs, and Tailwind CSS. The website has a few features such as a responsive design, and a few animations."
