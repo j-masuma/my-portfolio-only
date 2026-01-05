@@ -1,12 +1,12 @@
 {
   "name": "alvalen-portfolio-website",
   "author": {
-    "name": "Alvalen Shafelbilyunazra",
+    "name": "Javaria Masooma",
     "email": "alvalen.shafel04@gmail.com",
     "url": "https://alvalens.my.id"
   },
   "license": "GPL-3.0",
-  "copyright": "Copyright (C) 2025 Alvalen Shafelbilyunazra",
+  "copyright": "Copyright (C) 2025 Javaria Masooma",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -28,7 +28,7 @@
     "eslint": "9.22.0",
     "eslint-config-next": "15.2.3",
     "framer-motion": "^12.5.0",
-    "next": "15.2.3",
+    "next": "^16.1.1",
     "nprogress": "^0.2.0",
     "postcss": "^8.5.3",
     "prop-types": "^15.8.1",
