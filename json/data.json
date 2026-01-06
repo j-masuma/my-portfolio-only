@@ -29,27 +29,6 @@
     },
     {
       "show": true,
-      "title": "NotePad App",
-      "desc": [
-        "A MERN STack project in which I implemented CRUD ops and JWT Authentication. The project is a notepad app that has a few features such as creating new notes, editing it, deleting it, and searching for specific note. The project is built using MERN Stack, and Tailwind CSS."  
-      ],
-      "year": "2025",
-      "preview": "https://notes-app-frontend-mu-three.vercel.app/",
-      "code": "",
-      "thumbnail": "/image/projects/web/note-app/note1.png",
-      "images": [
-        "/image/projects/web/note-app/note2.png"
-      ],
-      "tech": [
-        "MERN Stack",
-        "Tailwind CSS",
-        "MongoDB"
-      ], 
-      "slug": "noteapp",
-      "category": [1]
-    },
-    {
-      "show": true,
       "title": "Travel Agency Website",
       "desc": [
        "A landing page for a travel agency that I created during my job in a company. The website is built using NextJS, Typescript, and Tailwind CSS. The website has a few features such as a responsive design, a carousel, and a few animations.",
