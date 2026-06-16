@@ -2,6 +2,31 @@
   "Projects": [
     {
       "show": true,
+      "title": "Voepy (Voice API & SIP Trunking for Global Voice Communication)",
+      "desc": [
+        "Voepy – Modern VoIP & Communication Platform Website",
+        "Developed and implemented a pixel-perfect, fully responsive frontend for Voepy by converting Figma designs into production-ready code using React.js and Tailwind CSS. Built reusable components, optimized layouts for various screen sizes, integrated interactive UI elements, and ensured a seamless user experience across devices."
+      ],
+      "year": "2026",
+      "preview": "https://voepy.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/voepy/voepy.png",
+      "images": [
+        "/image/projects/web/voepy/voepy1.png",
+        "/image/projects/web/voepy/voepy3.png",
+        "/image/projects/web/voepy/voepy2.png"
+      ],
+      "tech": [
+        "NextJS",
+        "Typescript",
+        "Tailwind CSS",
+        "Figma"
+      ], 
+      "slug": "voepy",
+      "category": [1]
+    },
+    {
+      "show": true,
       "title": "Dashboard App",
       "desc": [
         "A nextjs project in which I implemented CRUD ops and JWT Authentication. The project is a dashboard app that has a few features such as a sidebar, a topbar, and a few pages. The project is built using NextJS, Typescript, and Tailwind CSS.",
