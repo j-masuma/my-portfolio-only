@@ -8,7 +8,7 @@
         "Developed and implemented a pixel-perfect, fully responsive frontend for Voepy by converting Figma designs into production-ready code using React.js and Tailwind CSS. Built reusable components, optimized layouts for various screen sizes, integrated interactive UI elements, and ensured a seamless user experience across devices."
       ],
       "year": "2026",
-      "preview": "https://voepy.vercel.app/",
+      "preview": "https://voepy-six.vercel.app/",
       "code": "",
       "thumbnail": "/image/projects/web/voepy/voepy.png",
       "images": [
@@ -25,6 +25,7 @@
       "slug": "voepy",
       "category": [1]
     },
+     
     {
       "show": true,
       "title": "Dashboard App",
@@ -50,6 +51,31 @@
         "MySQL"
       ], 
       "slug": "dashboard",
+      "category": [1]
+    },
+    {
+      "show": true,
+      "title": "Conniv (Run your calling floor from one screen.)",
+      "desc": [
+        "Conniv - Run your calling floor from one screen.",
+        "Conniv unifies power dialing, live agent monitoring, visual call flows, and real-time analytics — so your team spends less time clicking and more time closing."
+      ],
+      "year": "2026",
+      "preview": "https://conniv.vercel.app/",
+      "code": "",
+      "thumbnail": "/image/projects/web/conniv/conniv.png",
+      "images": [
+        "/image/projects/web/conniv/conniv1.png",
+        "/image/projects/web/conniv/conniv3.png",
+        "/image/projects/web/conniv/conniv2.png"
+      ],
+      "tech": [
+        "NextJS",
+        "Typescript",
+        "Tailwind CSS",
+        "Figma"
+      ], 
+      "slug": "conniv",
       "category": [1]
     },
     {
